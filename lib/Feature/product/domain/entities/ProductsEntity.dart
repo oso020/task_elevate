@@ -14,13 +14,13 @@ class ProductsEntity {
   String? description;
   String? category;
   String? image;
-  Rating? rating;
+  RatingEntity? rating;
 
 
 }
 
-class Rating {
-  Rating({
+class RatingEntity {
+  RatingEntity({
       this.rate, 
       this.count,});
 

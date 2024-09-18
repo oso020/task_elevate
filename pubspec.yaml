@@ -45,6 +45,8 @@ dependencies:
   cached_network_image: ^3.4.1
   readmore: ^3.0.0
   bloc: ^8.1.4
+  flutter_screenutil: ^5.9.3
+
 
 dev_dependencies:
   flutter_test:
